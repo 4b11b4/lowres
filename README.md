@@ -93,8 +93,7 @@ Overview
 4. Record
 7. Listen
 3. Introduction of each **path**
-5. Most likely some more playing, recording, and listening in between the
-   introduction of all of the paths
+5. More playing, recording, and listening between every few introductions each paths
 
 Paths
 -----
@@ -132,7 +131,7 @@ translates the vibrations into an electrical signal for the brain.
 Session Two
 ===========
 For the second session, there are a handful paths we can take.<br>
-It is possible we explore two paths at the same time.<br>
+It is possible we explore more than one path at the same time.<br>
 I have deliberately _not_ planned past session one because I do not<br>
 know the students. Any plans would likely change.
 
