@@ -1,14 +1,18 @@
-# "Low Resistance" Curriculum
+"Low Resistance" Curriculum
+===========================
 
-# Table of Contents
+Table of Contents
+=================
+
 1. [Foreword](#foreword)
 2. [Content](#content)
 2. [Equipment](#equipment)
-3. [Session 1](#session_one)
+3. [Session One - Sound](#session-one---sound)
 3. [Funding](#funding)
 
 
-## Foreword <a name="foreword"></a>
+Foreword
+========
 "Low Resistance", when talking about curriculum, is just a play-on-words.<br>
 In the coil of a speaker, the long length of wire wrapped around a magnet,<br>
 has some amount of "resistance",<br>
@@ -36,14 +40,18 @@ When you are young -- is when tutors and mentors make the big differences.<br>
 There are a few areas in which I can be a tutor or a mentor.<br>
 
 
-
-## Content <a name="content"></a>
+Content
+=======
 This class is based on the idea that two concepts pair together<br>
-in a way which one helps understanding of the other:<br>
+in a way which they naturally help understanding of the other:<br>
 **sound** and **electrical engineering**.
 
+This writing is not meant to go into the content in detail, but only give an
+idea of some of the concepts.
 
-## Equipment <a name="equipment"></a>
+
+Equipment
+=========
 Currently have access to:
 
 1. Oscilloscope: shows the shape of a sound wave
@@ -52,16 +60,18 @@ Currently have access to:
 3. Drum Machine: to create digital drum kits and patterns 
 4. Turntables
 5. Analog Synthesizers: electric circuits for creating sounds
-5. Instruments: piano, guitar, drums, Native flute, uke, keyboard
+5. Instruments: piano, guitar, drums, Native flute, uke, an electric keyboard
 - misc: soldering iron, breaboards, electronic part library,
 3D printer, table saw, skill saw, scrap wood, solar panel,
 FM radio kits, amplifiers, subwoofer, mixers, microphone
 
-## Session One: Sound <a name="session_one"></a>
-**Note:** I have planned curriculum for a first "session".
+Session One - Sound
+===================
+**Note:** I have planned material for a first "session".
 <br>This may spill over into two or three days. 
 
-### Overview 
+Overview 
+--------
 1. What is sound?
    * Everyone give their defintion of sound.
 2. Listen: various sound clips (nature, animals, instruments)<br>
@@ -73,7 +83,7 @@ FM radio kits, amplifiers, subwoofer, mixers, microphone
         and watch them change on the two devices above
 3. Play: various instruments, turntables, drum machine, analog synthesizers
 4. Record: record some sounds from above
-5. Listen: to our recordings, and more sounds:
+5. Listen: to our recordings, and additional sounds:
    * sound from drum machine, analog synthesizers
    * sound from a music recording -- and identify different instruments from the
      shape of the waveform
@@ -81,9 +91,13 @@ FM radio kits, amplifiers, subwoofer, mixers, microphone
    * Everyone give their defintion of sound, again.
 3. Play
 4. Record
+7. Listen
 3. Introduction of each **path**
+5. Most likely some more playing, recording, and listening in between the
+   introduction of all of the paths
 
-#### Paths
+Paths
+-----
 1. Neuroscience
    * An introduction to how the ear picks up vibrations in the air and
 translates the vibrations into an electrical signal for the brain.
@@ -115,10 +129,25 @@ translates the vibrations into an electrical signal for the brain.
 10. Drum Machine
     * The basics of how to create a drum loop.
 
-## Session Two
+Session Two
+===========
 For the second session, there are a handful paths we can take.<br>
-It is possible we explore two paths at the same time.
+It is possible we explore two paths at the same time.<br>
+I have deliberately _not_ planned past session one because I do not<br>
+know the students. Any plans would likely change.
 
+Funding
+=======
+Ideas for this curriculum have been developing in my head for nearly 7 years.<br>
+They change as I am learning new things, recently how to build analog synthesizers.<br>
+I have taught a few classes to different age levels in the past few years.<br>
 
-## Funding <a name="funding"></a>
+The curriculum is something I am excited about trying to teach.<br>
+I am not driven by money. That being said, everyone needs funds to operate.
 
+If funding is available, it would be used towards:
+* food: We will start off every day with food in the morning.
+* supplies: I have most of the equipment already, but here are a few things which
+            would help depending on the paths we take.
+
+An itemized list of all costs would be recorded.
