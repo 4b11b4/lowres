@@ -13,16 +13,14 @@ Table of Contents
 
 Foreword
 ========
-The curriculum described as "Low Resistance" is just a play-on-words.<br>
-The coil<br />
-(a longggg piece of copper wire wrapped in a circle around a magnet...) of a speaker, the long length of wire wrapped around a magnet,<br>
-has some amount of "resistance",<br>
-which determines how many electrons can flow.
+The curriculum as "Low Resistance" is a play-on-words.<br>
+The coil...<br>
+(the long piece of copper wire wrapped around a magnet)...<br>
+...has some amount of "resistance".
 
-In this case, "low resistance" might suggest the curriculum is
+In this case, "low resistance" suggests the curriculum is
 opposite<br>
-the highly inflexible, "high resistance curriculum" found in most<br>
-"educational" settings in the US in 2019.
+the highly inflexible... "high resistance curriculum" found in most "educational" settings.
 
 What are the motivations for this class?<br>
 One answer is obvious as I am older.<br>
