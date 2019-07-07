@@ -15,67 +15,54 @@ Foreword
 ========
 The curriculum "<b>Low Resistance</b>" is a play-on-words.
 
-The coil --- [ the long string of copper wire wrapped around in a circle ]<br>
-The coil --- has some "<b>resistance</b>" to electricity flowing through it.
+The coil --- [ the long string of copper wire wrapped around in a circle ] ---<br>
+The coil --- has some natural "<b>resistance</b>" to electricity flowing through it.
 
 <img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" width="400"/>
 
 "<b>Low</b> resistance" suggests the curriculum is<br>
 opposite<br>
 highly inflexible, "<b>high</b> resistance" curriculum found in<br>
-"<i>educational</i>" settings.
+educational settings.
 
 What are the motivations for this class?<br>
-As I am older, it is obvious:<br>
+As I am older, it is obvious --- in trying to learn... <ins><b>anything</ins>:</b><br>
 having a **mentor** and without is like **day** and night.
 
-Without a mentor, you are in the dark wandering until you find some **light**.<br>
-Of course, you **will** find the light, but it will be much slower.<br>
-You can move a lot **faster** when<br>
-someone is helping you back to **running** after each the fall.
+Without a mentor, you must wander in the dark<br>
+and use your <b>will</b> to find some <b>light</b>.<br>
+You can move **faster** when<br>
+someone is lifting you<br>
+back to **running** after each fall.
 
 When I remember back, the only mentors I had when I was young -- for a 
 <ins>long period of time</ins> --<br>
 were my parents. I wonder how my life would have been different. 
 
-**...again, why?**<br>
-Everyone figures it out a lot faster with someone who has already been down the path.<br>
-When you are young -- is when tutors and mentors make the big differences.<br>
+**...again...** why?<br>
+Before you are old -- is when tutors and mentors make the big differences.<br>
 There are a few areas in which I can be a tutor or a mentor.<br>
 
 
 Content
 =======
-This class is based on the idea that two concepts pair together<br>
-in a way which they naturally help understanding of the other:<br>
-**sound** and **electrical engineering**.
+The content for this class is based on pairing two ideas.<br>
+I am betting that:
 
-This writing is not meant to go into the content in detail, but only give an
-idea of some of the concepts.
+**sound** and **electrical "engineering"** concepts
+
+pair together in such a way<br>
+that they naturally increase understanding of the other.
 
 
-Equipment
-=========
-Currently have access to:
-
-1. Oscilloscope: shows the shape of a sound wave
-2. Spectral Analysis: shows the loudness of specific frequencies
-(or, "pitches") in the audible human range
-3. Drum Machine: to create digital drum kits and patterns 
-4. Turntables
-5. Analog Synthesizers: electric circuits for creating sounds
-5. Instruments: piano, guitar, drums, Native flute, uke, an electric keyboard
-- misc: soldering iron, breaboards, electronic part library,
-3D printer, table saw, skill saw, scrap wood, solar panel,
-FM radio kits, amplifiers, subwoofer, mixers, microphone
 
 Session One - Sound
-===================
+-------------------
 **Note:** I have planned material for a first "session".
 <br>This may spill over into two or three days. 
 
-Overview 
---------
+<h3>Overview</h3>
+
 1. What is sound?
    * Everyone give their defintion of sound.
 2. Listen: various sound clips (nature, animals, instruments)<br>
@@ -99,16 +86,16 @@ Overview
 3. Introduction of each **path**
 5. More playing, recording, and listening between every few introductions each paths
 
-Paths
------
+<h3>Paths</h3>
+
 1. Neuroscience
    * An introduction to how the ear picks up vibrations in the air and
 translates the vibrations into an electrical signal for the brain.
    * Everyone hears differently. Do a sound test to see who can hear the
      highest and lowest pitch sounds.
 2. Physics
-   * An introduction to how sound travels through the air and the math that
-     describes it.
+   * How does sound travel through the air (and what is the math that
+     describes it)?
    * Does sound exist without air?
 3. Amplifiers
    * An introduction in creating circuits that move speakers back and
@@ -128,29 +115,33 @@ translates the vibrations into an electrical signal for the brain.
    * Double A batteries are 1.5 volts. What is a volt?
    * What does the math look like for describing how many electrons flow?
 9. Turntables
-   * Learning how to match two records to the same speed and mix them.
+   * Manipulate a record.
 10. Drum Machine
     * The basics of how to create a drum loop.
 
 Session Two
-===========
+-
 For the second session, there are a handful paths we can take.<br>
 It is possible we explore more than one path at the same time.<br>
-I have deliberately _not_ planned past session one because I do not<br>
-know the students. Any plans would likely change.
+I have purposefully _not_ planned past session one because<br>
+any plans would likely change.
+
+Equipment
+=
+
+1. Oscilloscope: shows the shape of a sound wave
+2. Spectral Analysis: shows the loudness of certain frequencies (or, "pitches")
+3. Drum Machine: to create digital drum kits and patterns 
+4. Turntables
+5. Analog Synthesizers: electric circuits for creating sounds
+5. Instruments: piano, guitar, drums, Native flute, uke, an electric keyboard
+- misc: soldering iron, breaboards, electronic part library,
+3D printer, table saw, skill saw, scrap wood, solar panel,
+FM radio kits, amplifiers, subwoofer, mixers, microphone
 
 Funding
-=======
-Ideas for this curriculum have been developing in my head for nearly 7 years.<br>
-They change as I am learning new things, recently how to build analog synthesizers.<br>
-I have taught a few classes to different age levels in the past few years.<br>
-
-The curriculum is something I am excited about trying to teach.<br>
-I am not driven by money. That being said, everyone needs funds to operate.
-
+=
 If funding is available, it would be used towards:
 * food: We will start off every day with food in the morning.
-* supplies: I have most of the equipment already, but here are a few things which
+* supplies: I have most of the equipment already, but there are a few things which
             would help depending on the paths we take.
-
-An itemized list of all costs would be recorded.
