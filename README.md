@@ -13,23 +13,26 @@ Table of Contents
 
 Foreword
 ========
-The curriculum "Low Resistance" is a play-on-words.<br>
-The coil...<br>
-(the long length of copper wire wrapped around a magnet)...<br>
-...has some amount of "resistance" to electricity moving through it.
+The curriculum "<b>Low Resistance</b>" is a play-on-words.
+
+The coil --- [ the long string of copper wire wrapped around in a circle ]<br>
+The coil --- has some "<b>resistance</b>" to electricity flowing through it.
 
 <img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" width="400"/>
 
-In this case, "low resistance" suggests the curriculum is<br>
+"<b>Low</b> resistance" suggests the curriculum is<br>
 opposite<br>
-the highly inflexible... "high resistance" curriculum found in most "educational" settings.
+highly inflexible, "<b>high</b> resistance" curriculum found in<br>
+"<i>educational</i>" settings.
 
 What are the motivations for this class?<br>
-One answer is obvious as I am older.<br>
-In learning anything, having a **mentor** and without is like **day** and night.<br>
+As I am older, it is obvious:<br>
+having a **mentor** and without is like **day** and night.
+
 Without a mentor, you are in the dark wandering until you find some **light**.<br>
 Of course, you **will** find the light, but it will be much slower.<br>
-You can move a lot **faster** when someone is getting you back **running** after each fall.
+You can move a lot **faster** when<br>
+someone is helping you back to **running** after each the fall.
 
 When I remember back, the only mentors I had when I was young -- for a 
 <ins>long period of time</ins> --<br>
