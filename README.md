@@ -18,7 +18,7 @@ The curriculum "<b>Low Resistance</b>" is a play-on-words.
 The coil --- [ the long string of copper wire wrapped around in a circle ] ---<br>
 The coil --- has some natural "<b>resistance</b>" to electricity flowing through it.
 
-<img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" width="400"/>
+<img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" height="220"/>
 
 "<b>Low</b> resistance" suggests the curriculum is<br>
 opposite<br>
@@ -56,9 +56,13 @@ pair together in such a way<br>
 that they naturally increase understanding of the other.
 
 
-
 Session One - Sound
 -------------------
+<p align="left">
+  <img src="./img/soundwave.jpg" alt="Sound wave" height="150">
+  <img src="./img/propagation.png" alt="Propagation" height="150">
+</p>
+
 **Note:** I have planned material for a first "session".
 <br>This may spill over into two or three days. 
 
@@ -78,10 +82,10 @@ Session One - Sound
 4. Record
 5. Listen to our recordings, and:
    * sound from the drum machine, analog synthesizers
-   * sound from a song recording -- and identify different instruments from the
+   * sound from a song recording -- identify different instruments from the
      shape of the waveform
 6. What is sound?
-   * Everyone give their defintion of sound, again.
+   * What is your definition of sound, now? 
 1. What is music?
    * How do you define music?
 3. Play
@@ -93,7 +97,7 @@ Session One - Sound
 <h3>Paths</h3>
 
 1. Neuroscience
-   * How does the ear picks up vibrations in the air and then
+   * How does the ear pick up vibrations in the air and then
 translate these vibes into an electrical signal for the brain?
    * Everyone hears differently. Do a sound test to see who can hear the
      highest and lowest pitch sounds.
@@ -104,8 +108,8 @@ translate these vibes into an electrical signal for the brain?
 3. Amplifiers
    * How do you make a speaker cone vibrate?
 4. Speaker Cabs 
-   * How does the box influence how speaker sounds?
-   * Build one out of wood or design a model and 3D print one.
+   * How does a box influence how speaker a sounds?
+   * Build one out of wood or design a model and 3D print it.
 5. Radio
    * How does electricity shoot off into the air...?
    * Build an FM radio kit.
@@ -130,6 +134,10 @@ any plans would likely change.
 
 Equipment
 =
+<p align="left">
+  <img src="./img/serato.jpg" alt="Serato" height="200">
+  <img src="./img/spectral.jpeg" alt="Spectral" height="200">
+</p>
 
 1. Oscilloscope: shows the shape of a sound wave
 2. Spectral Analysis: shows the loudness of certain frequencies (or, "pitches")
