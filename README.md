@@ -146,4 +146,5 @@ Funding
 If funding is available, it would be used towards:
 * food: We will start off every day with food in the morning.
 * supplies: I have most of the equipment already, but there are a few things which
-            would help depending on the paths we take.
+            would help<br>
+            depending on the paths we take.
