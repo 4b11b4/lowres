@@ -17,7 +17,9 @@ The curriculum "Low Resistance" is a play-on-words.<br>
 The coil...<br>
 (the long length of copper wire wrapped around a magnet)...<br>
 ...has some amount of "resistance" to electricity moving through it.
-![Parts of a Speaker](./img/parts_of_a_speaker.jpg)
+
+<img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" width="400"/>
+
 In this case, "low resistance" suggests the curriculum is<br>
 opposite<br>
 the highly inflexible... "high resistance" curriculum found in most "educational" settings.
