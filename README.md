@@ -35,9 +35,10 @@ You can move **faster** when<br>
 someone is lifting you<br>
 back to **running** after each fall.
 
-When I remember back, the only mentors I had when I was young -- for a 
-<ins>long period of time</ins> --<br>
-were my parents. I wonder how my life would have been different. 
+When I remember back, the only mentors I had when I was young<br>
+--- for a <ins>long period</ins> of time ---<br>
+were my parents.<br>
+I wonder how my life may have been shaped. 
 
 **...again...** why?<br>
 Before you are old -- is when tutors and mentors make the big differences.<br>
@@ -64,7 +65,7 @@ Session One - Sound
 <h3>Overview</h3>
 
 1. What is sound?
-   * Everyone give their defintion of sound.
+   * Go around the circle and everyone give their defintion of sound.
 2. Listen: various sound clips (nature, animals, instruments)<br>
    and view the sounds in **real-time**:
    * sound wave from oscilloscope
@@ -72,25 +73,28 @@ Session One - Sound
       * use an equalizer ("EQ") to tune in and out certain sounds<br>
         with your own two hands<br>
         and watch them change on the two devices above
-3. Play: various instruments, turntables, drum machine, analog synthesizers
-4. Record: record some sounds from above
-5. Listen: to our recordings, and additional sounds:
-   * sound from drum machine, analog synthesizers
-   * sound from a music recording -- and identify different instruments from the
+3. Play
+   * various instruments, turntables, drum machine, analog synthesizers
+4. Record
+5. Listen to our recordings, and:
+   * sound from the drum machine, analog synthesizers
+   * sound from a song recording -- and identify different instruments from the
      shape of the waveform
 6. What is sound?
    * Everyone give their defintion of sound, again.
+1. What is music?
+   * How do you define music?
 3. Play
 4. Record
 7. Listen
 3. Introduction of each **path**
-5. More playing, recording, and listening between every few introductions each paths
+5. More playing between introductions of paths
 
 <h3>Paths</h3>
 
 1. Neuroscience
-   * An introduction to how the ear picks up vibrations in the air and
-translates the vibrations into an electrical signal for the brain.
+   * How does the ear picks up vibrations in the air and then
+translate these vibes into an electrical signal for the brain?
    * Everyone hears differently. Do a sound test to see who can hear the
      highest and lowest pitch sounds.
 2. Physics
@@ -98,17 +102,15 @@ translates the vibrations into an electrical signal for the brain.
      describes it)?
    * Does sound exist without air?
 3. Amplifiers
-   * An introduction in creating circuits that move speakers back and
-     forth.
-   * Build a basic amplifier circuit for a small speaker.
-4. Speaker Boxes 
-   * An introduction to creating a box that influences how speaker sounds.
-   * Build a small speaker cabinet or 3D print a speaker enclosure.
+   * How do you make a speaker cone vibrate?
+4. Speaker Cabs 
+   * How does the box influence how speaker sounds?
+   * Build one out of wood or design a model and 3D print one.
 5. Radio
-   * An introduction to how electricity shoots off into the air.
+   * How does electricity shoot off into the air...?
    * Build an FM radio kit.
 6. Recording
-   * Learn how to properly capture sound.
+   * Learn how to capture sound.
 7. Energy 
    * Build a solar panel and make it charge a car battery.
 8. Electrical Engineering Theory
@@ -117,7 +119,7 @@ translates the vibrations into an electrical signal for the brain.
 9. Turntables
    * Manipulate a record.
 10. Drum Machine
-    * The basics of how to create a drum loop.
+    * Create a drum loop.
 
 Session Two
 -
