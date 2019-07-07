@@ -66,7 +66,7 @@ Session One - Sound
 
 1. What is sound?
    * Go around the circle and everyone give their defintion of sound.
-2. Listen: various sound clips (nature, animals, instruments)<br>
+2. Listen: sound clips (nature, animals, instruments)<br>
    and view the sounds in **real-time**:
    * sound wave from oscilloscope
    * frequency graph from spectral analysis
@@ -74,7 +74,7 @@ Session One - Sound
         with your own two hands<br>
         and watch them change on the two devices above
 3. Play
-   * various instruments, turntables, drum machine, analog synthesizers
+   * instruments, turntables, drum machine, analog synthesizers
 4. Record
 5. Listen to our recordings, and:
    * sound from the drum machine, analog synthesizers
