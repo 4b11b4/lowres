@@ -6,8 +6,8 @@ Table of Contents
 
 1. [Foreword](#foreword)
 2. [Content](#content)
-2. [Equipment](#equipment)
 3. [Session One - Sound](#session-one---sound)
+2. [Equipment](#equipment)
 3. [Funding](#funding)
 
 
