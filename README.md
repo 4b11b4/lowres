@@ -15,7 +15,7 @@ Foreword
 ========
 The curriculum "<b>Low Resistance</b>" is a play-on-words.
 
-The coil --- [ the long string of copper wire wrapped around in a circle ] ---<br>
+The coil of wire in a speaker --- [ the long string of copper wire wrapped around in a circle ] ---<br>
 The coil --- has some natural "<b>resistance</b>" to electricity flowing through it.
 
 <img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" height="220"/>
