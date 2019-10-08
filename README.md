@@ -16,7 +16,7 @@ Foreword
 The curriculum "<b>Low Resistance</b>" is a play-on-words.
 
 The coil of wire in a speaker --- [ a long string of copper wire wrapped around in a circle ] ---<br>
-The coil --- has some natural "<b>resistance</b>" to electricity flowing through it.
+This coil --- has some natural "<b>resistance</b>" to electricity flowing through it.
 
 <img src="./img/parts_of_a_speaker.jpg" alt="Speaker Parts" height="220"/>
 
@@ -26,7 +26,7 @@ highly inflexible, "<b>high</b> resistance" curriculum found in<br>
 educational settings.
 
 What are the motivations for this class?<br>
-As I am older, it is obvious --- in trying to learn... <ins><b>anything</ins>:</b><br>
+As I grow older, it is obvious to me --- in trying to learn... <ins><b>anything</ins>:</b><br>
 having a **mentor** and without is like **day** and night.
 
 Without a mentor, you must wander in the dark<br>
