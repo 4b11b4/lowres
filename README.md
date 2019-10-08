@@ -32,15 +32,15 @@ having a **mentor** and without is like **day** and night.
 Without a mentor, you must wander in the dark<br>
 and use your <b>will</b> to find some <b>light</b>.<br>
 You can move **faster** when<br>
-someone is lifting you<br>
-back to **running** after each fall.
+someone is lifting you back up<br>
+and helping you back to **running** after each fall.
 
 When I remember back, the only mentors I had when I was young<br>
---- for a <ins>long period</ins> of time ---<br>
+--- at least, for a <ins>long period</ins> of time ---<br>
 were my parents.<br>
-I wonder how my life may have been shaped. 
+I wonder how my life may have been shaped with other mentors.
 
-**...again...** why?<br>
+**...again...** why bother with this class?<br>
 Before you are old -- is when tutors and mentors make the big differences.<br>
 There are a few areas in which I can be a tutor or a mentor.<br>
 
